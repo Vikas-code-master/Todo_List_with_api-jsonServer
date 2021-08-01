@@ -1,0 +1,74 @@
+
+h2.Headers {
+    border-radius: 1px;
+    width: 85%;
+    height: 39px;
+    margin-top: 22px;
+    margin-left: 53px;
+    background-color: aquamarine;
+    color: brown;
+    padding-top: 6px;
+}
+h2.todo-list {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin-left: 90px;
+    border-radius: 1px solid black;
+    color: darkblue;
+    margin-top: 5px;
+    height: 34px;
+}
+input.searchbox2 {
+    height: 29px;
+    width: 60%;
+}
+.addtask{
+    width: 60%;
+    width: 60%;
+    margin: 15px;
+    background-color: lightblue;
+    height: 35px;
+}
+
+#listheader{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: medium;
+}
+.todolisthead {
+    background-color: lightblue;
+    width: 100px;
+    height: 33px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+#list-job {
+    padding-top: 20px;
+    background-color: aliceblue;
+    margin-top: 20px;
+    height: 35px;
+    /* width: 70%; */
+}
+.imageCheck {
+    display: flex;
+    justify-content: space-around;
+}
+img.clickImage {
+    width: 21px;
+}
+
+.deletetask {
+    display: flex;
+    margin: 21px;
+    justify-content: space-around;
+}
+.deletetask1 {
+    background-color: indianred;
+    width: 30%;
+    height: 31px;
+    padding-top: 6px;
+}
