@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "todo": "javascript (completed)",
+      "todoStatus": true,
+      "id": 13
+    },
+    {
+      "todo": "Ruby",
+      "todoStatus": false,
+      "id": 14
+    },
+    {
+      "todo": "angular",
+      "todoStatus": false,
+      "id": 15
+    },
+    {
+      "todo": "learn react",
+      "todoStatus": false,
+      "id": 16
+    },
+    {
+      "todo": "java-spring",
+      "todoStatus": false,
+      "id": 17
+    }
+  ]
+}
